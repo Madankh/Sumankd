@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sumankd
-- 👀 I’m interested in BlockChain Dev and Game dev
+- 👋 Hi, I’m @Madan khadka
+- 👀 I’m interested in BlockChain Dev and Ai
 - 🌱 I’m currently learning about c++ and javascript
 <!---
 Sumankd/Sumankd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
